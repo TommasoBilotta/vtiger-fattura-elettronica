@@ -12,12 +12,19 @@ Il modulo è stato sviluppato su VTiger 7.
 Dopo aver effettuato l'installazione bisogna inserire i parametri di configurazione. Nel file modules/Fattura24/resources/config.inc.php:
 
 $config = Array();
+
 $config['apiKey'] = "";
+
 $config['iban'] = "IBAN: IT....";
+
 $config['metodopagamento'] = "Banca Popolare.....";
+
 $config['mapping']['org']['partitaiva'] = "Partita I.V.A.";
+
 $config['mapping']['org']['codicefiscale'] = "Codice Fiscale";
+
 $config['mapping']['org']['provinciaconsegna'] = "Provincia consegna";
+
 $config['mapping']['org']['provinciafatturazione'] = "Provincia fatturazione";
 
 Qui bisogna modificare:
