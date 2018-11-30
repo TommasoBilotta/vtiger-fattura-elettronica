@@ -1,7 +1,7 @@
 # vtiger-fattura-elettronica
 Modulo VTiger per la fatturazione elettronica italiana
 
-(Per ricevere invormazioni registrati registrati al link: http://www.phoenixict.it/registrazione/)
+(Per ricevere informazioni registrati al link: http://www.phoenixict.it/registrazione/)
 
 Con questo modulo le società che creano le fatture con VTiger potranno continuare a farlo anche dopo il 2019. Da questa data sarà obbligatorio usare in Italia la fattura elettronica.
 Questo modulo si appoggia al servizio fornito da Fattura24 (https://www.fattura24.com/) per firmare elettronicamente e conservare le fatture, secondo i termini di legge.
